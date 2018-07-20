@@ -19,15 +19,15 @@ While I was a Mathercise volunteer, helping teachers with assessment process, I 
 * Some students did not seem to be doing Daily Exercise, perhaps because the exercise was flash card based which required students to work with their "coach" at home who can check their answers (Flash cards don't have correct answers written on them.) 
 ### Features
 * Features for Admin (teachers, volunteers):
- * user login to access admin features
- * create flash card
- * create a level test
- * create student account
- * conduct Fitness Test
- * check students' progress, create report, analysis (Who is not tested enough times etc)
+  * user login to access admin features
+  * create flash card
+  * create a level test
+  * create student account
+  * conduct Fitness Test
+  * check students' progress, create report, analysis (Who is not tested enough times etc)
 * Features for Students:
- * user login to access student features
- * practice a level
+  * user login to access student features
+  * practice a level
 ### Technologies
 * Java
 * Spring Boot
