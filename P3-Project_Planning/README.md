@@ -20,3 +20,6 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 [Mathercise Project Tracker](https://www.pivotaltracker.com/n/projects/2185219)
+
+### Project repository in GitHub
+[Mathercise Project](https://github.com/hiroko-lc101/mathercise)
