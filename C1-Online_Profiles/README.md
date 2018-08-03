@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
-[GitHub](https://github.com/hiroko-lc101)
+Provide a link to your GitHub account [here](https://github.com/hiroko-lc101).
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-[LinkedIn](https://www.linkedin.com/in/hiroko-hayakawa-089a098/)
+Provide a link to your LinkedIn account [here](https://www.linkedin.com/in/hiroko-hayakawa-089a098/).
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
