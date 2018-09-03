@@ -31,10 +31,12 @@ When I was a Fitness Test volunteer, I felt Mathercise was a very manual heavy p
 * Spring Boot
 * Thymeleaf
 * MySQL
-* Bootstrap?
+* Bootstrap
+
 ### What I'll Have to Learn
-* How to work with user logins and cookies
+* Javascript
+* Work more with Bootstrap 
 * How to redirect pages automatically
 * How to display a graph in a web app (https://stackoverflow.com/questions/10533605/plot-graph-in-web-application)
-* (How to print a document automatically from a web app?)
-* (work more with Bootstrap) 
+* (Future Addition - How to work with user logins and cookies)
+* (Future Addition - How to print a document automatically from a web app?)
